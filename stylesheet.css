@@ -1,0 +1,78 @@
+h1 {color:teal;
+	background-color: yellow;
+	font-size:70px;
+
+}
+
+p {
+	color:green;
+	text-align:center;
+	font-size:20px;
+
+}
+
+
+nav li{
+
+	   color:blue;
+       background-color:green;
+       font-size:30px;
+}
+
+h3{ color:yellow;
+     text-align:left;
+     font-size:30px
+
+}
+
+a {color:orange;
+   text-align:left;
+
+}
+
+#iface { background-color:orange;
+         font-size:80px;
+         color:green;}
+
+
+#one{font-size:30px;
+	color:orange;
+	background-color: yellow
+
+ }
+    
+
+body {background-color:darkblue;}
+
+#Section3 li:hover:nth-child(even) {
+
+	color:red;
+	background-color:yellow;
+	border-style:solid;
+	border-width:5px;
+	border-color:orange;
+	font-size:90px;
+}
+
+Section #youarenot {
+
+    color:red;
+    background-color: yellow;
+    border-style:solid;
+    border-color:teal;
+    font-style:italic;
+}
+
+
+.iamgay::first-letter{
+
+	background-color:orange
+}
+
+.iamgay:hover{
+
+	color:white;
+	background-color:purple;
+}
+
+.youarehot li:hover:nth-child(4) {color:yellow;}
