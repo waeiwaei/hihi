@@ -63,6 +63,14 @@ Section #youarenot {
     font-style:italic;
 }
 
+#Section2 h2:hover{
+
+	color:red
+	text-align:center;
+	border-style:solid;
+	border-color: red;
+
+}
 
 .iamgay::first-letter{
 
