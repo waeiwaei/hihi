@@ -65,7 +65,7 @@ Section #youarenot {
 
 #Section2 h2:hover{
 
-	color:red
+	color:red;
 	text-align:center;
 	border-style:solid;
 	border-color: red;
@@ -89,5 +89,5 @@ Section #youarenot {
 #Section4 a:visited{
 
 	color:white;
-	
+
 }
