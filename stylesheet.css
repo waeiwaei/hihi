@@ -84,12 +84,12 @@ Section #youarenot {
 
 
 
-#Section4>p>a:link{
+#Section4>p>b>a:link{
 
 	color:skyblue;
 }
 
-#Section4>p>a:visited{
+#Section4>p>b>a:visited{
 
 	color:white;
 
