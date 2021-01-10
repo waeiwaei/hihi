@@ -84,3 +84,10 @@ Section #youarenot {
 }
 
 .youarehot li:hover:nth-child(4) {color:yellow;}
+
+
+#Section4 a:visited{
+
+	color:white;
+	
+}
